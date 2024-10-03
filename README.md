@@ -1,17 +1,24 @@
-Mediation Analysis in R
+# Mediation Analysis in R
 Thank you very much for reading this article to the end. I would be delighted if this post has been of any help to you. 
+
 As someone who studies statistics, including structural equation modeling, on a daily basis, I keenly feel that there is still much for me to learn.
+
 In this article, I have attempted to explain mediation analysis as clearly as possible. There may have been parts that were difficult to understand.
+
 If so, please don't hesitate to ask questions. I would be very grateful if you could point out any areas where the explanations or code could be improved or corrected.
+
 As someone who is constantly learning about structural equation modeling and related statistical techniques, I'm always looking to expand my knowledge. 
+
 If you know of any books, papers, or websites that would be helpful for studying structural equation modeling, in addition to the references listed below, I would greatly appreciate your recommendations.
+
 Your feedback and suggestions are invaluable in helping me improve this resource. Thank you for your interest and support!
 
 
 
 
 
-Reference
+# Reference
+
 [1] 豊田 (1998) 共分散構造分析 入門編―構造方程式モデリング (統計ライブラリー) 朝倉書店
 [2] 豊田 (2014) 共分散構造分析[R編]―構造方程式モデリング 東京書籍
 [3] 小川(2020) つくりながら学ぶ! Pythonによる因果分析 ~因果推論・因果探索の実践入門 (Compass Data Science) マイナビ出版
